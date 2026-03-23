@@ -93,15 +93,6 @@ certifications:
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <!-- METRICS -->
 ## 📈 Detailed Metrics
 
