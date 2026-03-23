@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%92%A1+Turning+ideas+into+code;%F0%9F%8C%8D+Open+Source+%7C+Innovation+%7C+Collaboration" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<br/>
-<a href="https://github.com/ismayilzeynal">
-  <img src="https://komarev.com/ghpvc/?username=ismayilzeynal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</a>
-<a href="https://github.com/ismayilzeynal?tab=followers">
-  <img src="https://img.shields.io/github/followers/ismayilzeynal?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Followers" />
-</a>
-<a href="https://github.com/ismayilzeynal?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ismayilzeynal?label=Total%20Stars&style=for-the-badge&color=4ECDC4&labelColor=1a1b27" alt="Stars" />
-</a>
-
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -66,15 +54,6 @@ fun_fact: I mass mass mass code 💻
 
 ---
 
-<!-- TROPHIES -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ismayilzeynal&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" alt="Trophy" />
-</div>
-
----
-
 <!-- ACTIVITY GRAPH -->
 ## 📊 Contribution Graph
 
@@ -112,22 +91,7 @@ fun_fact: I mass mass mass code 💻
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismayilzeynal&theme=tokyonight&utcOffset=4" width="32%" />
 </div>
 
----
-
-<!-- RANDOM DEV QUOTE -->
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
 <!-- FOOTER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <b>⭐ From <a href="https://github.com/ismayilzeynal">ismayilzeynal</a> with ❤️</b>
 </div>
