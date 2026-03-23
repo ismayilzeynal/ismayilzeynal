@@ -113,8 +113,7 @@ certifications:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismayilzeynal&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismayilzeynal&theme=tokyonight&utcOffset=4" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismayilzeynal&theme=tokyonight" width="50%" />
 </div>
 
 ---
