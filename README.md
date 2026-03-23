@@ -93,19 +93,6 @@ certifications:
 
 ---
 
-<!-- METRICS -->
-## 📈 Detailed Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismayilzeynal&theme=tokyonight" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismayilzeynal&theme=tokyonight" width="50%" />
-</div>
-
----
-
 <!-- CONNECT -->
 ## 🤝 Connect with Me
 
