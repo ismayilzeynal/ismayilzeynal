@@ -22,11 +22,6 @@ education:
   - MSc Computer Science — Baku State University (2024-2026)
   - BSc Computer Science — Holon Institute of Technology, Israel
   - BSc Computer Science — Baku State University
-achievements:
-  - 1st Place — BSU Student Programming Contest
-  - 2nd Place — ICPC Azerbaijan Qualifications
-  - 3rd Place — ICPC Azerbaijan Final
-  - 4th Place — Azercell "Code for Future" Hackathon
 certifications:
   - IT Specialist - Data Analytics (Certiport)
   - Google Data Analytics Professional
@@ -74,10 +69,10 @@ certifications:
 <div align="center">
 
 <a href="https://github.com/ismayilzeynal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismayilzeynal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" />
+  <img height="180em" src="https://github-readme-stats-taupe-two-65.vercel.app/api?username=ismayilzeynal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" />
 </a>
 <a href="https://github.com/ismayilzeynal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismayilzeynal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-taupe-two-65.vercel.app/api/top-langs/?username=ismayilzeynal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&count_private=true" />
 </a>
 
 </div>
