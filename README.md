@@ -88,14 +88,8 @@ fun_fact: I mass mass mass code 💻
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> ⚠️ *Snake animasiyası üçün GitHub Actions workflow quraşdırmalısan (aşağıda izah olunub)*
 
 ---
 
@@ -104,7 +98,7 @@ fun_fact: I mass mass mass code 💻
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ismayilzeynal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&layout=compact" height="160em" />
+<img src="https://github-readme-stats.vercel.app/api?username=ismayilzeynal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&show=reviews,discussions_started,discussions_answered,prs_merged&hide=contribs" height="160em" />
 
 </div>
 
