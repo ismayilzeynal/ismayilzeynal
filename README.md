@@ -69,9 +69,6 @@ certifications:
 <div align="center">
 
 <a href="https://github.com/ismayilzeynal">
-  <img height="180em" src="https://github-readme-stats-taupe-two-65.vercel.app/api?username=ismayilzeynal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" />
-</a>
-<a href="https://github.com/ismayilzeynal">
   <img height="180em" src="https://github-readme-stats-taupe-two-65.vercel.app/api/top-langs/?username=ismayilzeynal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&count_private=true" />
 </a>
 
