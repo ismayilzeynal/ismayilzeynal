@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ismayilzeynal.github.io)",
+      "Bash(vercel --version)",
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(vercel login:*)",
+      "Bash(vercel link:*)",
+      "Bash(vercel --prod --yes)",
+      "Bash(vercel ls:*)",
+      "Bash(vercel inspect:*)",
+      "Bash(npx @platane/snk --help)",
+      "Bash(npx snk:*)"
+    ]
+  }
+}
