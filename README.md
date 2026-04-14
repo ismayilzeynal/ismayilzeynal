@@ -82,13 +82,6 @@ certifications:
 
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ---
 
 <!-- ACTIVITY GRAPH -->
@@ -96,6 +89,19 @@ certifications:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismayilzeynal&custom_title=Ismayil's%20Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area_color=4ECDC4&area=true&hide_border=true&title_color=4ECDC4" width="100%" />
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismayilzeynal/ismayilzeynal/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
