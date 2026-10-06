@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=220&section=header&text=Ismayil%20Zeynalov&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Data%20Analyst%20%7C%20IT%20Team%20Lead%20%7C%20Digital%20Transformation&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=220&section=header&text=Ismayil%20Zeynalov&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Director%2C%20Azerbaijan-Korea%20Computer%20Science%20Center%20%7C%20Baku%20State%20University&descSize=18&descAlignY=55" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%93%8A+Turning+data+into+decisions;%F0%9F%9A%80+Leading+digital+transformation+%40+BSU;%F0%9F%8F%86+ICPC+Finalist+%7C+Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=760&height=100&lines=%F0%9F%93%8A+Turning+data+into+decisions;%F0%9F%9A%80+Director+%40+Azerbaijan-Korea+Computer+Science+Center;%F0%9F%8F%86+ICPC+Finalist+%7C+Competitive+Programmer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,8 +16,10 @@
 ```yaml
 name: Ismayil Zeynalov
 location: Baku, Azerbaijan 🇦🇿
-role: Acting Digital Transformation Team Lead @ Baku State University
-also: IT Specialist & Data Analyst @ BSU Rectory
+role: Director @ Azerbaijan-Korea Computer Science Center, Baku State University (since Aug 2026)
+also:
+  - Acting Digital Transformation Team Lead @ Baku State University
+  - IT Specialist & Data Analyst @ BSU Rectory
 education:
   - MSc Computer Science — Baku State University (2024-2026)
   - BSc Computer Science — Holon Institute of Technology, Israel
